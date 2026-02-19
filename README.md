@@ -36,7 +36,22 @@ File: calculator.py
 
 ---
 
+### 4. Fighter Class (OOP Practice) ⚔️
+A simple fighting simulation using classes in Python.
+Two fighters attack each other and health decreases.
+
+Concepts used:
+- Classes & Objects
+- Methods
+- Object interaction (attack method)
+- Printing object status
+
+File: fighter_class.py
+
+---
+
 ## How to Run
 Make sure Python is installed, then run:
-`bash
+```bash
 python filename.py
+```
